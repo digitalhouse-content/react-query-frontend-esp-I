@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React",
+      "body": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "title": "Angular",
+      "body": "Angular is a platform that makes it easy to build applications with the web."
+    },
+    {
+      "id": 3,
+      "title": "Vue",
+      "body": "Vue is a progressive framework for building user interfaces."
+    },
+    {
+      "id": 4,
+      "title": "Laravel",
+      "body": "Laravel is a web application framework with expressive, elegant syntax."
+    },
+    {
+      "id": 5,
+      "title": "Django",
+      "body": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+    },
+    {
+      "id": 6,
+      "title": "Flask",
+      "body": "Flask is a lightweight WSGI web application framework."
+    },
+    {
+      "id": 7,
+      "title": "Express",
+      "body": "Express is a minimal and flexible Node.js web application framework."
+    },
+    {
+      "id": 8,
+      "title": "Spring",
+      "body": "Spring is a powerful lightweight application development framework used for Java Enterprise Edition (JEE)."
+    },
+    {
+      "id": 9,
+      "title": "Ruby on Rails",
+      "body": "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License."
+    },
+    {
+      "id": 10,
+      "title": "ASP.NET",
+      "body": "ASP.NET is an open-source server-side web application framework designed for web development to produce dynamic web pages."
+    },
+    {
+      "id": 11,
+      "title": "Django",
+      "body": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+    },
+    {
+      "id": 12,
+      "title": "Flask",
+      "body": "Flask is a lightweight WSGI web application framework."
+    },
+    {
+      "title": "React Query",
+      "body": " manejo de peticiones async",
+      "id": 13
+    },
+    {
+      "title": "JSDoc",
+      "body": " documentar nuestro codigo",
+      "id": 14
+    },
+    {
+      "title": "Creando ",
+      "body": " creando post",
+      "id": 15
+    }
+  ]
+}
